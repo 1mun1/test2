@@ -1,0 +1,30 @@
+{
+    "versions": [
+        {
+            "name": "Mega Hack Pro",
+            "auth_required": false,
+            "data": "Octavus",
+            "datafiles": [
+                "save.json",
+                "data.json"
+            ],
+            "versions": [
+                "v8.0-alpha",
+                "v8.0 (Geode)"
+            ],
+            "hashes": [
+                "4557684dbce24ce6c6b17a2b0d956b29ab5eb5230185b9996d46af96ae004a97",
+                "1c620e45aa1f753ce79875e586bfef8dba8ec786cbcee427c8be480997148591"
+            ],
+            "requirements": [
+                [
+                    "!Geode.dll"
+                ],
+                [
+                    "Geode.dll"
+                ]
+            ],
+            "notice": "<html><head/><body><p>Press <span style=\" font-weight:800;\">TAB</span> in-game to use Mega Hack!</p></body></html>"
+        }
+    ]
+}
